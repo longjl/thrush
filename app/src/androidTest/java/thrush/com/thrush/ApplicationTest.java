@@ -1,4 +1,4 @@
-package com.thrush;
+package thrush.com.thrush;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

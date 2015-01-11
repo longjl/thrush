@@ -1,1 +1,4 @@
 include ':app'
+include 'deps:viewpagerIndicator'
+include 'deps:actionbarsherlock'
+include 'deps:PhotoProcessing'

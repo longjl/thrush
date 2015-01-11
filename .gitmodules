@@ -1,0 +1,6 @@
+[submodule "deps/viewpagerIndicator"]
+	path = deps/viewpagerIndicator
+	url = https://github.com/longjl/viewpagerIndicator.git
+[submodule "deps/actionbarsherlock"]
+	path = deps/actionbarsherlock
+	url = https://github.com/longjl/actionbarsherlock.git
